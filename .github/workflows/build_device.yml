@@ -29,7 +29,7 @@ on:
         options:
           - DEBUG
           - RELEASE
-        default: DEBUG
+        default: RELEASE
       screen_debug:
         description: Screen debug (show debug output on the display)
         required: true
